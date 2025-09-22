@@ -1,4 +1,4 @@
-# Sigma Plugin Template (React + TypeScript + Vite)
+# My Plugin
 
 This template provides a starting point for developing custom data visualizations for the Sigma platform using React, TypeScript, and Vite. It includes a minimal setup with the necessary dependencies and project structure to get you started quickly.
 
